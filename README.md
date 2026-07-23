@@ -23,15 +23,14 @@
 - [着色器基础课](https://www.bilibili.com/video/BV1G94y1o7bz)
 
 ### 4. UE C++
-- B 站上讲C语言比较好的有王铭东(补:现已不免费了)，搭配黑马这两套相信入门不是问题。
-- [C语言 零基础 快速上手](https://www.bilibili.com/video/BV12L411v7Q5)
-- 建议用C++代码的方式跟着敲 这样学完C基础能很好的衔接C++
-- 接着就可以看 UE C++国外搬运的那套了。
-- [国外一](https://www.bilibili.com/video/BV1be41137Kp)
+- Halorio游戏开发大叔 目前全网能把虚幻C++讲好的没几个如果这套还看不懂就得去补C++基础了
+- [C语言 零基础 快速上手](https://space.bilibili.com/3546957708528116/lists/7970340?type=season)
+
 
 ### 
 
-## [脑图链接:](https://gitmind.cn/app/docs/m6fealpc)
+## [脑图链接:](https://www.zhixi.com/view/a4cb2391)
 每科目只推荐了一套 有更好的课程了我再实时更新
+https://www.zhixi.com/view/a4cb2391
 ![虚幻引擎 5（UE5）学习之路](https://github.com/user-attachments/assets/4118327e-3e1f-4ef3-be7e-4641c7a200d5)
 
