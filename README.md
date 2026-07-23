@@ -32,5 +32,5 @@
 ## [脑图链接:](https://www.zhixi.com/view/a4cb2391)
 每科目只推荐了一套 有更好的课程了我再实时更新
 https://www.zhixi.com/view/a4cb2391
-![虚幻引擎 5（UE5）学习之路](https://github.com/user-attachments/assets/4118327e-3e1f-4ef3-be7e-4641c7a200d5)
+![虚幻引擎 5（UE5）学习之路](https://github.com/linzhangdaren/UnrealEngine5_learning/blob/eb2871fdb99858f52212bc06e117fb3e1ddb0960/1.png)
 
